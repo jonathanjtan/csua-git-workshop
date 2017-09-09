@@ -1,7 +1,7 @@
 
 def main():
     person_a = "Person A"
-    superlative_a = "best"
+    superlative_a = "worst"
 
     person_b = "Person B"
     superlative_b = “OK”
