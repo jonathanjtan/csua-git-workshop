@@ -4,7 +4,7 @@ def main():
     superlative_a = "best"
 
     person_b = "Person B"
-    superlative_b = "worst"
+    superlative_b = “OK”
 
     name = "Hilfinger"
     position = "professor"
